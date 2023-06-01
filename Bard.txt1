@@ -1,0 +1,15 @@
+
+Here are some case studies in DSA:
+
+Word frequency analysis: This is a classic case study that uses a hash table to count the frequency of each word in a document.
+Random numbers: This case study uses a random number generator to generate a sequence of random numbers.
+Word histogram: This case study uses a histogram to track the frequency of each word in a document.
+Most common words: This case study uses a sorting algorithm to find the most common words in a document.
+Optional parameters: This case study shows how to use optional parameters in a function.
+Dictionary subtraction: This case study shows how to subtract two dictionaries.
+Random words: This case study generates a random list of words.
+Markov analysis: This case study uses a Markov chain to generate text that is similar to a given input text.
+Data structures: This case study discusses the different types of data structures and their applications.
+Debugging: This case study shows how to debug a program that is using data structures.
+Glossary: This case study provides a glossary of terms related to data structures.
+Exercises: This case study provides a set of exercises that can be used to test your understanding of data structures.
