@@ -1,0 +1,11 @@
+
+
+Case studies are super important to crack DSA interviews.
+
+Some examples of them are →
+
+1. Design Browser History
+2. Design Gmail Search Engine
+3. Design Dictionary
+
+Still, hundreds of software engineers lose good career opportunities due to not knowing about these case studies…
